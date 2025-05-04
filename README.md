@@ -8,6 +8,13 @@ In this repository we present ECGMiner: A Flexible Software for Accurately Digit
 
 
 ## Setup
+
+NOTE: If you have file corruption on your PC you may have problems with the installation, alternatively you can download the executable directly if you find it easier :)
+https://drive.google.com/drive/folders/1i5fh099kBr0-DWrGKGFFww6UvoYyATaG?usp=sharing
+
+
+Alternatively, follow the steps below to generate it:
+
 1. Git clone this repository
     ```
     git clone https://github.com/adofersan/ecg-miner.git
